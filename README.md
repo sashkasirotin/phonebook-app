@@ -2,6 +2,13 @@
 phone-book api for home assignment
 in this phonebook app i created a service for crud operation on contacts.
 
+*things that i would like to implement if i had more time:
+-more thorow error handling with error propogation
+-fininsh unit tests,
+- convert to golang
+- add keyclock for rbak managment
+- scale the api's and rate limit the reuqests 
+
 atached relvant
 -files postman collection to run the api's,postman env for token veraible,contact api swagger.yaml,zipped recording
 
